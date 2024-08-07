@@ -16,7 +16,7 @@ import java.util.List;
  * FileName: VacanciesReaderService
  * Author:   Andriy V
  * Date:     22.06.2024 21:48
- * Description:
+ * Description: VacanciesReaderService
  */
 
 

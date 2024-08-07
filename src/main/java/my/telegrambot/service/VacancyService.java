@@ -13,7 +13,7 @@ import java.util.Map;
  * FileName: VacancyService
  * Author:   Andriy V
  * Date:     22.06.2024 21:49
- * Description:
+ * Description: VacancyService
  */
 
 
